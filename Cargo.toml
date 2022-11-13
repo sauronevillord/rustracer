@@ -1,0 +1,2 @@
+[workspace]
+members = ["trace_main", "trace_math", "trace_utils", "trace_camera"]
